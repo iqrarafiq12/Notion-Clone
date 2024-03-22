@@ -20,9 +20,12 @@ In this project i Built A Notion Clone name "Kitab"..
 - Landing page 🛬
 - Cover image of each document 🖼️
 - Recover deleted files 🔄📄
+<<<<<<< HEAD
 
 
 # Envoirments Setup
 - Next.js
 - Tailwind CSS
 - Shadcn UI
+=======
+>>>>>>> 083a71f6d9879a99166ed9ec84e4bba6c3c8e77a
